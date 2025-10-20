@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main () {
-    std::cout << "Changed message" << "\n";
+    std::cout << "git push test" << "\n";
 } 
